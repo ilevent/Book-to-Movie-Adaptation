@@ -1,0 +1,64 @@
+#header{
+    min-height:150px;
+    background-color:#E56157;
+    z-index:-1;
+    /*background-image: url("beatriz-perez-moya-111685.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-position: 30% 100%; */
+}
+
+#side {
+    width: 150px;
+    height:100vh;
+    background-color: #FFD235;
+    position:absolute;
+    left:75%;
+    top:0%;
+
+    
+}
+
+#title {
+    font-family: 'Permanent Marker', cursive;
+    font-size:45px;
+    margin:2%;
+    width:60%;
+}
+
+#searchbox{
+      line-height: 3;
+      padding-top: 3%;
+      margin-left: 2%;
+      font-family: 'Permanent Marker', cursive;
+      
+    
+}
+
+#card {
+    background-color:#C5F5B7;
+    margin: 50%;
+}
+
+#bookcontainer {
+ margin-left:2%;  
+ margin-top:2%;
+ background-color: #AD80FF;
+ font-family:'Permanent Marker', cursive; 
+}
+
+#moviecontainer {
+ margin-left:2%;  
+ margin-top:2%; 
+ background-color:#AD80FF;
+ font-family:'Permanent Marker', cursive; 
+}
+
+#button {
+    background-color: #FFD235;
+    display:inline-block;
+    margin-top: 17%;
+    margin-right: 5%;
+    font-family: 'Permanent Marker', cursive;
+}
+
